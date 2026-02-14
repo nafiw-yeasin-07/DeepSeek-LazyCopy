@@ -28,4 +28,5 @@ The full response is copied to your clipboard.
 
 Current version: v1.2.0
 
+## Preview
 <img width="373" height="293" alt="Screenshot 2026-02-14 152810" src="https://github.com/user-attachments/assets/76ddbdc5-d989-46ea-b4c0-3036c0ab899a" />
